@@ -12,6 +12,7 @@ body{
 .menu-half-width{
     width:50%;
     padding:0px 20px;
+    margin-right:1%;
 }
 
 .favicon{
@@ -24,8 +25,8 @@ body{
     color:gray;
     border-radius: 5px;
     margin:0px 2px;
-    padding:10px 35px;
-    font-size: 20px;
+    padding:8px 30px;
+    font-size: 18px;
 }
 .menu-button:hover{
     color:white;
