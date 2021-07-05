@@ -6,6 +6,32 @@ body{
     margin:0;
     
 }
+.menu-section{
+    display:flex;
+}
+.menu-half-width{
+    width:50%;
+    padding:0px 20px;
+}
+
+.favicon{
+    display:flex;
+    margin-bottom:0px ;
+}
+.menu-button{
+    text-decoration: none;
+    background-color: rgb(240, 172, 192);
+    color:gray;
+    border-radius: 5px;
+    margin:0px 2px;
+    padding:10px 35px;
+    font-size: 20px;
+}
+.menu-button:hover{
+    color:white;
+    border-radius: 5px;
+    background-image: linear-gradient(brown,indianred);
+}
 .top-section{
     display:flex;
 }
