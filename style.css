@@ -55,7 +55,6 @@ body{
     text-decoration: none;
     color:whitesmoke;
     background-image: linear-gradient(crimson,black);
-    margin-top:20%;
     padding:10px 25px;
     border-radius:20px;
     opacity:0.8;
@@ -78,6 +77,10 @@ body{
     width:50%;
     margin:20px 10px 0px 60px;
 
+}
+.grey-heading{
+    color:grey;
+    font-size: 45px;
 }
 .recipe-text{
     width:40%;
