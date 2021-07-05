@@ -9,7 +9,7 @@ body{
     display:flex;
 }
 .top-heading{
-    font-size:40px;
+    font-size:45px;
 }
 .top-paragraph{
     font-size:20px;
@@ -21,4 +21,17 @@ body{
 }
 .top-img{
     width:80%;
+}
+.order-now-button{
+    text-decoration: none;
+    color:whitesmoke;
+    background-image: linear-gradient(crimson,black);
+    padding:8px 20px;
+    border-radius:20px;
+    opacity:0.8;
+    
+    box-shadow: 5px 5px 10px rgb(100, 33, 33) ;
+}
+.order-now-button:hover{
+    opacity:1;
 }
