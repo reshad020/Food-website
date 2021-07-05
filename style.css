@@ -1,3 +1,24 @@
-h1{
-    color:blue;
+.color-site-name{
+    color:crimson;
+}
+body{
+    font-family: 'Archivo Narrow', sans-serif;
+    
+}
+.top-section{
+    display:flex;
+}
+.top-heading{
+    font-size:40px;
+}
+.top-paragraph{
+    font-size:20px;
+}
+.half-width{
+    width:50%;
+    margin:50px;
+    padding:30px
+}
+.top-img{
+    width:80%;
 }
