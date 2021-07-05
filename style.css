@@ -47,14 +47,15 @@ body{
     padding:30px
 }
 .top-img{
-    width:85%;
+    width:100%;
+    height:100%;
 }
 .order-now-button{
     font-size:20px;
     text-decoration: none;
     color:whitesmoke;
     background-image: linear-gradient(crimson,black);
-    
+    margin-top:20%;
     padding:10px 25px;
     border-radius:20px;
     opacity:0.8;
@@ -96,4 +97,35 @@ body{
 }
 .recipe-image{
     width:100%;
+}
+.end-section{
+    display:flex;
+    margin: 10px 70px 20px 70px;
+    box-shadow: 3px 3px 10px 10px rgba(197, 193, 193, 0.87);
+    border-radius: 20px;
+}
+.social-media{
+    width:33%;
+    padding:20px  120px;
+    text-align: center;
+    margin-bottom:20px;
+    
+}
+.follower-count{
+    font-size:45px;
+}
+footer{
+    color:whitesmoke;
+    background-color: black;
+    text-align: center;
+    margin-top: 100px;
+    padding-top:15px;
+    padding-bottom:70px;
+}
+footer h1{
+    color: grey;
+}
+.footer-text-color{
+    color:crimson;
+    
 }
